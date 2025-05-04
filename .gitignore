@@ -1,7 +1,9 @@
 #Node Modules
-frontend/node_modules
+notes/node_modules
 backend/node_modules
 
 #Environment variables
 notes/.env
 backend/.env
+
+git rm --cached notes/.env
